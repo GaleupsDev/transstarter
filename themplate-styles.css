@@ -1,0 +1,125 @@
+
+/*
+* Used https://raw.githack.com/ for hosting CSS files
+* url: https://glcdn.githack.com/Galeups/transstarter-themplate/raw/master/themplate-styles.css
+*/
+
+h2 {
+    font-family: "Exo 2.0" !important;
+}
+
+.green-h {
+    color: #0db520 !important;
+}
+
+.crm-webform-default {
+    border: none !important;
+}
+
+.g-min-w-600 {
+    width: 470px !important;
+}
+
+.crm-webform-label {
+    display: none !important;
+}
+
+.btn-md {
+    display: none !important;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-size: 24px;
+    color: #a6a6a6;
+}
+
+/*
+*   HEADER block16270
+*/
+header .navbar a {
+    font-size: 16px !important;
+    font-weight: 600;
+    letter-spacing: normal;
+    font-stretch: normal;
+}
+
+header .navbar a:hover {
+    color: lightgray !important;
+}
+
+header .g-mx-10--lg {
+    margin-left: 0 !important;
+    margin-right: 24px !important;
+}
+header .g-mx-10--lg:last-child {
+    margin-right: 0 !important;
+}
+header .ml-auto.navbar-nav {
+    margin-left: 0 !important;
+}
+
+header .g-mt-3 {
+    margin-top: 0 !important;
+}
+
+header .g-py-16 {
+    padding-top: 0.3125rem !important;
+    padding-bottom: 0.3125rem !important;
+}
+
+/*
+* Block Search block16272
+*/
+.search-block {
+    background-color: #0cb520;
+    padding: 20px 0;
+    color: white;
+}
+
+.search-block span {
+    font-size: 14px;
+    font-weight: 400;
+    display: inline-block;
+    margin-right: 8px;
+    padding: 3px 5px 3px 25px;
+    border: 1px solid rgba(255, 255, 255, .4);
+    border-radius: 4px;
+}
+
+.search-block span.city {
+    font-size: 16px;
+    font-weight: 600;
+    margin-right: 16px;
+    border: 0;
+}
+
+.search-block span:last-child {
+    margin-right: 0;
+}
+
+/*
+* Main Slider
+*/
+.slick-slider .g-height-100vh {
+    height: 100% !important;
+}
+
+.slick-slider .g-max-width-550 {
+    max-width: unset !important;
+}
+
+.slick-slider .landing-block-node-card-price {
+    padding: 0 !important;
+}
+
+.slick-slider .landing-block-node-card-title {
+    margin-bottom: 32px !important;
+}
+
+/*
+*   Media block
+*/
+.media .media-body p {
+    margin: 0;
+}
